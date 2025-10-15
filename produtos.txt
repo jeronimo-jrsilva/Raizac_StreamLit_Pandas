@@ -1,154 +1,154 @@
-CÃ³digo: 025
+Código: 025
 Produto: Barrinha sabor banana
-Valor unitÃ¡rio: R$ 11.49
+Valor unitário: R$ 11.49
 Quantidade: 20
 Categoria: Alimentos
-DescriÃ§Ã£o: Barrinha marca Natuvida, 40g
+Descrição: Barrinha marca Natuvida, 40g
 Total: R$ 229.80
 Data: 01/10/2025
 CEP: 60015000
-NÃºmero: 74
-EndereÃ§o: Avenida TristÃ£o GonÃ§alves - Centro
+Número: 74
+Endereço: Avenida Tristão Gonçalves - Centro
 Cidade: Fortaleza
 Estado: CE
 ========================================
-CÃ³digo: 048
+Código: 048
 Produto: Creatina Growth 400g
-Valor unitÃ¡rio: R$ 99.90
+Valor unitário: R$ 99.90
 Quantidade: 10
 Categoria: Suplementos
-DescriÃ§Ã£o: Creatina marca rowth, 400g, Black
+Descrição: Creatina marca rowth, 400g, Black
 Total: R$ 999.00
 Data: 03/10/2025
 CEP: 60341020
-NÃºmero: 11
-EndereÃ§o: Rua Eretides Alencar - Jardim Iracema
+Número: 11
+Endereço: Rua Eretides Alencar - Jardim Iracema
 Cidade: Fortaleza
 Estado: CE
 ========================================
-CÃ³digo: 012
+Código: 012
 Produto: Whey Protein 400g
-Valor unitÃ¡rio: R$ 149.49
+Valor unitário: R$ 149.49
 Quantidade: 20
 Categoria: Suplementos
-DescriÃ§Ã£o: Whey protein, lata com 400g 
+Descrição: Whey protein, lata com 400g 
 Total: R$ 2989.80
 Data: 16/09/2025
 CEP: 60411170
-NÃºmero: 66
-EndereÃ§o: Rua NapoleÃ£o Laureano - FÃ¡tima
+Número: 66
+Endereço: Rua Napoleão Laureano - Fátima
 Cidade: Fortaleza
 Estado: CE
 ========================================
-CÃ³digo: 088
+Código: 088
 Produto: Shake emagrecedor
-Valor unitÃ¡rio: R$ 59.90
+Valor unitário: R$ 59.90
 Quantidade: 5
 Categoria: Bebidas
-DescriÃ§Ã£o: Shake emagrecedor, marca FiqueFina, 200g
+Descrição: Shake emagrecedor, marca FiqueFina, 200g
 Total: R$ 299.50
 Data: 22/09/2025
 CEP: 60135228
-NÃºmero: 007
-EndereÃ§o: Rua LÃ­vio Barreto - Dionisio Torres
+Número: 007
+Endereço: Rua Lívio Barreto - Dionisio Torres
 Cidade: Fortaleza
 Estado: CE
 ========================================
-CÃ³digo: 054
-Produto: TermogÃªnico
-Valor unitÃ¡rio: R$ 68.99
+Código: 054
+Produto: Termogênico
+Valor unitário: R$ 68.99
 Quantidade: 20
 Categoria: Suplementos
-DescriÃ§Ã£o: TermogÃªnico marca VulcÃ£o
+Descrição: Termogênico marca Vulcão
 Total: R$ 1379.80
 Data: 23/09/2025
 CEP: 61769240
-NÃºmero: 411
-EndereÃ§o: Rua JosÃ© Bento - Amador
-Cidade: EusÃ©bio
+Número: 411
+Endereço: Rua José Bento - Amador
+Cidade: Eusébio
 Estado: CE
 ========================================
-CÃ³digo: 001
+Código: 001
 Produto: Garrafa RAIZAC
-Valor unitÃ¡rio: R$ 48.99
+Valor unitário: R$ 48.99
 Quantidade: 5
 Categoria: Outros
-DescriÃ§Ã£o: Garrafa metÃ¡lica com logo RAIZAC, 400ml
+Descrição: Garrafa metálica com logo RAIZAC, 400ml
 Total: R$ 244.95
 Data: 29/09/2025
 CEP: 60861098
-NÃºmero: 020
-EndereÃ§o: Rua Santana da ParnaÃ­ba - Boa Vista-CastelÃ£o
+Número: 020
+Endereço: Rua Santana da Parnaíba - Boa Vista-Castelão
 Cidade: Fortaleza
 Estado: CE
 ========================================
-CÃ³digo: 053
+Código: 053
 Produto: YoPro
-Valor unitÃ¡rio: R$ 5.99
+Valor unitário: R$ 5.99
 Quantidade: 50
 Categoria: Bebidas
-DescriÃ§Ã£o: YoPro 90g sabor chocolate
+Descrição: YoPro 90g sabor chocolate
 Total: R$ 299.50
 Data: 02/10/2025
 CEP: 60861098
-NÃºmero: 020
-EndereÃ§o: Rua Santana da ParnaÃ­ba - Boa Vista-CastelÃ£o
+Número: 020
+Endereço: Rua Santana da Parnaíba - Boa Vista-Castelão
 Cidade: Fortaleza
 Estado: CE
 ========================================
-CÃ³digo: 053
+Código: 053
 Produto: YoPro
-Valor unitÃ¡rio: R$ 5.99
+Valor unitário: R$ 5.99
 Quantidade: 50
 Categoria: Bebidas
-DescriÃ§Ã£o: YoPro 90g sabor chocolate
+Descrição: YoPro 90g sabor chocolate
 Total: R$ 299.50
 Data: 02/10/2025
 CEP: 60861098
-NÃºmero: 020
-EndereÃ§o: Rua Santana da ParnaÃ­ba - Boa Vista-CastelÃ£o
+Número: 020
+Endereço: Rua Santana da Parnaíba - Boa Vista-Castelão
 Cidade: Fortaleza
 Estado: CE
 ========================================
-CÃ³digo: 087
-Produto: SanduÃ­che natural
-Valor unitÃ¡rio: R$ 5.99
+Código: 087
+Produto: Sanduíche natural
+Valor unitário: R$ 5.99
 Quantidade: 12
 Categoria: Alimentos
-DescriÃ§Ã£o: SanduÃ­che natural - frango com salada
+Descrição: Sanduíche natural - frango com salada
 Total: R$ 71.88
 Data: 02/10/2025
 CEP: 60430440
-NÃºmero: 155
-EndereÃ§o: Rua JoÃ£o Sorongo - Rodolfo TeÃ³filo
+Número: 155
+Endereço: Rua João Sorongo - Rodolfo Teófilo
 Cidade: Fortaleza
 Estado: CE
 ========================================
-CÃ³digo: 099
-Produto: ChÃ¡ de boldo
-Valor unitÃ¡rio: R$ 10.99
+Código: 099
+Produto: Chá de boldo
+Valor unitário: R$ 10.99
 Quantidade: 6
 Categoria: Alimentos
-DescriÃ§Ã£o: Eita boldo bom!!!!!
+Descrição: Eita boldo bom!!!!!
 Total: R$ 65.94
 Data: 02/10/2025
 CEP: 60541242
-NÃºmero: 244
-EndereÃ§o: Rua Sousa Carvalho - Granja Portugal
+Número: 244
+Endereço: Rua Sousa Carvalho - Granja Portugal
 Cidade: Fortaleza
 Estado: CE
 ========================================
-CÃ³digo: 015
-Produto: AlÃ§a de garrafa
-Valor unitÃ¡rio: R$ 39.99
+Código: 015
+Produto: Alça de garrafa
+Valor unitário: R$ 39.99
 Quantidade: 6
 Categoria: Outros
-DescriÃ§Ã£o: AlÃ§a de seguranÃ§a para garrafa metÃ¡lica RAIZAC
+Descrição: Alça de segurança para garrafa metálica RAIZAC
 Total: R$ 239.94
 Data: 09/10/2025
 CEP: 60861098
-NÃºmero: 666
-EndereÃ§o: Rua Santana da ParnaÃ­ba - Boa Vista-CastelÃ£o
+Número: 666
+Endereço: Rua Santana da Parnaíba - Boa Vista-Castelão
 Cidade: Fortaleza
 Estado: CE
 ========================================
